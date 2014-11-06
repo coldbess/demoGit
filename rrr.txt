@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+fffff
+hhhh
+rrrrr
+nnnn
+`
+=======
+.....
+fjfdoisjdpjdoiwqjpdjqw
+
+>>>>>>> eddbc47... Test HotFix
+=======
+.....
+fjfdoisjdpjdoiwqjpdjqw
+
+>>>>>>> hotfix
